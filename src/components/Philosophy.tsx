@@ -2,7 +2,7 @@ import { AnimatedText, FadeIn } from "./AnimatedText";
 
 const Philosophy = () => {
   return (
-    <section className="section-warm-alt py-32 md:py-48 px-6 md:px-12">
+    <section className="py-32 md:py-48 px-6 md:px-12">
       <div className="max-w-6xl mx-auto">
         <div className="mb-12">
           <AnimatedText>
